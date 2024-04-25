@@ -25,3 +25,13 @@ A multi-vendor e-commerce website is a digital platform designed to serve a dual
 <img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/797f35aa-d957-46aa-b245-437efc80efef" width="850" height="500">
 <img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/c19ec0b4-ef54-4565-bbc2-7bf97946a603" width="850" height="500">
 
+#Admin Interface
+
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/29d31f81-0b3f-4c84-86d7-10b55c61ffdd" width="850" height="500">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/0c6ad5b9-e02c-4946-906b-56c3c9ce1c8a" width="850" height="500">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/9d1f8c37-0d3e-4da4-8548-2af3039927b2" width="850" height="500">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/2e32525a-13be-4296-bb51-a1c3f2b96991" width="850" height="500">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/cdae841c-d908-4201-ba96-7595230f552b" width="850" height="500">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/9cea123b-17a5-45d2-b149-2fc4a0df3590" width="850" height="500">
+
+
