@@ -5,7 +5,7 @@ A multi-vendor e-commerce website is a digital platform designed to serve a dual
 #Customer Interface
 
 
-<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/a4e5236d-42ee-4608-a603-ed47cf5fbea2" width="280" height="567">
+<img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/a4e5236d-42ee-4608-a603-ed47cf5fbea2" width="600" height="600">
 <img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/cb253143-da1c-48cb-a7f3-b912f35a7afa" width="280" height="567">
 <img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/3f52e07d-3a1c-44aa-a726-844121b31c3c" width="280" height="567">
 <img src="https://github.com/mdyeasin07/bengaldeli-multivendor/assets/122235266/a2969721-29ed-47bc-b465-9f1bbdedb015" width="280" height="567">
